@@ -12,8 +12,8 @@ html {
 
 body {
   font-family: 'Baskervville', serif;
-  color: rgba(218, 216, 214, 0.822);
-  background-color: rgba(0, 0, 0, 0.945);
+  color: rgba(56, 160, 53, 0.822);
+  background-color: rgba(34, 95, 112, 0.945);
   margin-bottom: 3rem;
 }
 
@@ -30,7 +30,7 @@ h6 {
 
 a {
   text-decoration: wavy;
-  color: rgba(247, 245, 237, 0.959);
+  color: rgba(19, 18, 16, 0.932);
 }
 
 main {
