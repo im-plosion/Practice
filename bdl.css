@@ -12,8 +12,8 @@ html {
 
 body {
   font-family: 'Baskervville', serif;
-  color: rgba(53, 160, 94, 0.822);
-  background-color: rgba(19, 42, 48, 0.945);
+  color: rgba(220, 243, 229, 0.822);
+  background-color: rgb(13, 42, 51);
   margin-bottom: 3rem;
 }
 
@@ -42,7 +42,6 @@ main {
 .hero-img {
   width: 100%;
   object-fit: contain;
-  opacity: 0.6;
   border-radius: 18px;
   /* optional position: absolute;
     left: 10px;
@@ -79,9 +78,9 @@ hr {
 
 .hero-title {
   text-align: center;
-  color: rgba(15, 75, 135, 0.911);
+  color: rgba(17, 165, 210, 0.996);
   font-size: 8rem;
-  text-shadow: 1px 1px #7be9ce;
+  text-shadow: 1px 1px #181d1b;
 }
 
 .hero-subtitle {
@@ -96,8 +95,8 @@ hr {
 }
 
 .author-name a:hover {
-  background-color: #1e8566d5;
-  color: rgb(242, 255, 240);
+  background-color: #25a981d5;
+  color: rgb(10, 12, 9);
   transform: scale(1.1);
   transition: 0.2s;
   border-radius: 5px;
@@ -128,7 +127,7 @@ grid-column: 3 / 1;
   margin-right: 1rem;
 }
 .quote {
-  color: #a7acd6e5;
+  color: #0f80c1e5;
   font-size: 2.4rem;
   text-align: center;
   font-family: Raleway, sans-serif;
