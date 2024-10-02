@@ -41,7 +41,7 @@ main {
 
 .hero-img {
   width: 100%;
-  object-fit: fill;
+  object-fit: cover;
 }
 
 hr {
@@ -72,14 +72,15 @@ hr {
 
 .hero-title {
   text-align: center;
-  color: rgba(17, 165, 210, 0.996);
+  color: rgba(17, 120, 210, 0.996);
   font-size: 8rem;
+  letter-spacing: 0.5px;
   text-shadow: 1px 1px #181d1b;
 }
 
 .hero-subtitle {
-  font-size: 2.4rem;
-  color: rgba(128, 182, 226, 0.801);
+  font-size: 4rem;
+  color: rgba(185, 209, 228, 0.997);
   text-align: center;
 }
 
@@ -90,7 +91,7 @@ hr {
 
 .author-name a:hover {
   background-color: #25a981d5;
-  color: rgb(10, 12, 9);
+  color: rgb(68, 92, 80);
   transform: scale(1.1);
   transition: 0.2s;
   border-radius: 5px;
@@ -109,9 +110,9 @@ hr {
   grid-auto-columns: 1fr;
   align-items: center;
 }
-.second-paragraph, .third-paragraph, .fourth-paragraph { font-size: 1.8rem;
+.second-paragraph { font-size: 1.8rem;
 text-align: justify;
-grid-column: 3 / 1;
+grid-column: 2 / 1;
 }
 
 .first-paragraph::first-letter {
