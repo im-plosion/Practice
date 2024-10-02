@@ -12,8 +12,8 @@ html {
 
 body {
   font-family: 'Baskervville', serif;
-  color: rgba(56, 160, 53, 0.822);
-  background-color: rgba(34, 95, 112, 0.945);
+  color: rgba(53, 160, 94, 0.822);
+  background-color: rgba(19, 42, 48, 0.945);
   margin-bottom: 3rem;
 }
 
@@ -52,7 +52,7 @@ main {
 }
 
 hr {
-  border: 1px solid rgba(243, 243, 236, 0.692);
+  border: 1px solid rgba(51, 150, 189, 0.692);
   margin: 1.5rem 1rem;
 }
 
