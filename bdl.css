@@ -79,14 +79,14 @@ hr {
 
 .hero-title {
   text-align: center;
-  color: rgba(105, 113, 121, 0.911);
+  color: rgba(15, 75, 135, 0.911);
   font-size: 8rem;
-  text-shadow: 1px 1px #e9cf7b;
+  text-shadow: 1px 1px #7be9ce;
 }
 
 .hero-subtitle {
   font-size: 2.4rem;
-  color: rgba(160, 153, 216, 0.801);
+  color: rgba(128, 182, 226, 0.801);
   text-align: center;
 }
 
