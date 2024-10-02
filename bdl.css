@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Baskervville', serif;
   color: rgba(220, 243, 229, 0.822);
-  background-color: rgb(13, 42, 51);
+  background-color: rgb(10, 31, 49);
   margin-bottom: 3rem;
 }
 
@@ -30,7 +30,7 @@ h6 {
 
 a {
   text-decoration: wavy;
-  color: rgba(19, 18, 16, 0.932);
+  color: rgba(254, 254, 254, 0.932);
 }
 
 main {
@@ -41,17 +41,11 @@ main {
 
 .hero-img {
   width: 100%;
-  object-fit: contain;
-  border-radius: 18px;
-  /* optional position: absolute;
-    left: 10px;
-    top: 10px;
-    bottom: 10px;
-    z-index: -1; */
+  object-fit: fill;
 }
 
 hr {
-  border: 1px solid rgba(51, 150, 189, 0.692);
+  border: 1px solid rgba(64, 168, 209, 0.692);
   margin: 1.5rem 1rem;
 }
 
