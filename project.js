@@ -1,3 +1,12 @@
-let myFavoriteCity = 'Camden';
-let myFavoriteBook = 'Minerva and the lost world 1';
-console.log(myFavoriteCity + myFavoriteBook);
+let athleteFinalPosition = 'first place';
+switch (athleteFinalPosition) { 
+  case 'first place':
+  console.log('You get the gold medal!');
+  break;
+  case 'second place':
+  console.log('You get the silver medal!');
+  break;
+  case 'third place':
+  console.log('You get the bronze medal!');
+  break;
+}
